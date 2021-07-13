@@ -2,7 +2,7 @@
 - 👀 I’m interested in solar, and software that helps individual homeowners, or small business owners.
 - 🌱 I’m currently learning Laravel
 
-- 📫 How to reach me thompsonblake58@gmail.com
+- 📫 How to reach me blake.thompson@ascent.com
 
 <!---
 blake-ascent/blake-ascent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
