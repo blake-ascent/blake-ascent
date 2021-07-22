@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @blake-ascent
-- 👀 I’m interested in solar, and software that helps individual homeowners, or small business owners.
 - 🌱 I’m currently learning Laravel
 
 - 📫 How to reach me blake.thompson@ascent.com
