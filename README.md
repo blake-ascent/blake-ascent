@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @blake-ascent
-- 🌱 I’m currently learning Laravel
-
-- 📫 How to reach me blake.thompson@ascent.com
+- 🧠 I love a challenge
+- 📫 How to reach me blake.thompson@ascentdesk.com
 
 <!---
 blake-ascent/blake-ascent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
